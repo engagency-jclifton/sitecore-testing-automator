@@ -6,7 +6,7 @@ using Sitecore.Pipelines.HttpRequest;
 using System.Web;
 using JeremyClifton.Data.TestAutomator;
 using Sitecore.SecurityModel;
-using JeremyClifton.Util.TestAutomator;
+using JeremyClifton.Util.Testing.Automator;
 using System.Runtime.Remoting;
 using System.Reflection;
 using System.Xml.Linq;
